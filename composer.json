@@ -4,8 +4,8 @@
     "description": "Improved inventory management plugin for Sylius.",
     "license": "MIT",
     "require": {
-        "php": ">=7.4",
-        "sylius/sylius": "^1.10"
+        "php": "^8.0",
+        "sylius/sylius": "^1.11"
     },
     "require-dev": {
         "behat/behat": "^3.4",
